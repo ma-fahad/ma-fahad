@@ -2,7 +2,7 @@
 
 # About Me:
 💻 I'm a Business Intelligence | Data Analyst | Robotics Enthusiast | AI | ML </br>
-🌐 please find my Portfolio here https://fahad.piedcc.com/ </br>
+🌐 please find my Portfolio here https://ma-fahad.github.io/ma-fahad/ </br>
 📫 How to reach me fahad.ee.its@gmail.com
 
 
